@@ -29,6 +29,7 @@ Este projeto é uma implementação de uma **rede neural** em C, treinada com ba
 ## Exemplo de Saída
 
 - Durante o treinamento, os valores de acurácia e perda são exibidos, e ao final, os pesos ajustados da rede neural são impressos.
+- exemplo:
 
 ```bash
 ACERTOS : 0.93
