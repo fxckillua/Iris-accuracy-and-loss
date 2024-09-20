@@ -1,4 +1,4 @@
-# Iris: Acurácia e Perda - Implementação de Rede Neural
+# Iris: Accuracy and Loss - Neural Network Implementation
 
 Este projeto é uma implementação de uma **rede neural** em C, treinada com base no **conjunto de dados Iris**, utilizando o algoritmo de retropropagação para classificar as amostras em três espécies diferentes de flores. A rede calcula a acurácia e a perda do modelo durante as fases de treinamento e teste.
 
